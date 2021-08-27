@@ -1,0 +1,44 @@
+.header  {
+width: 100%;
+height: 100vh;
+background-position: center;
+background-size: cover;
+background: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif);
+background-attachment: fixed;
+display: flex;
+}
+.text{
+    width: 50%;
+    height: 100vh;
+ position: relative;
+}
+.one{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   top: 30%;
+   left: 10%;   
+}
+
+
+.h3uz{
+    font-size: 40px;
+    padding: 5px 0px;
+    color: #fff;
+}
+
+
+.rasm{
+    width: 50%;
+    height: 100%;
+}
+.img{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: red;
+    position: relative;
+    top: 20%;
+    left: 10%;
+    background: url("https://t3.ftcdn.net/jpg/03/11/36/08/360_F_311360857_61ogHZTWCqSlSOOzx8JGG8Abz9Dqi85e.jpg");
+}
